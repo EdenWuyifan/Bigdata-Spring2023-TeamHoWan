@@ -12,6 +12,6 @@
 
 
 ## References
-[Google MAP python API](https://github.com/googlemaps/google-maps-services-python)
-[Auctus Datamart Rest python API](https://docs.auctus.vida-nyu.org/python/datamart-rest.html)
-[Auctus Search](https://auctus.vida-nyu.org/)
+- [Google MAP python API](https://github.com/googlemaps/google-maps-services-python)
+- [Auctus Datamart Rest python API](https://docs.auctus.vida-nyu.org/python/datamart-rest.html)
+- [Auctus Search](https://auctus.vida-nyu.org/)
